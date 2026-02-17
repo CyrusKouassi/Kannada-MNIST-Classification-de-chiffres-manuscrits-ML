@@ -18,7 +18,9 @@ Les fichiers utilisés sont :
 - `test.csv` : données de test  
 
 Compte tenu du volume des fichiers, les données ne sont pas incluses dans ce dépôt.  
-Le dataset est disponible sur Kaggle :  https://www.kaggle.com/c/Kannada-MNIST/data
+Le dataset est disponible sur Kaggle :  
+
+https://www.kaggle.com/c/Kannada-MNIST/data
 ---
 
 ## Démarche méthodologique
